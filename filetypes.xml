@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="plus_run" type="AUTO_DETECTED" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="src/main/java/com/sankuai/meituan/banma/api/service/waybillprocess/iface/*.java" approved="true" type="GitIgnore file" />
+    </extensionMap>
+  </component>
+</application>
